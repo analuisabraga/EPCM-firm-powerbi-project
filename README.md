@@ -32,4 +32,4 @@ This dashboard helps the EPCM company in the following ways:
 The EPCM Dashboard centralizes project insights and provides a single source of truth for all project performance metrics. This solution contributes to the company's overall strategy by improving the speed of decision-making, enhancing safety outcomes, and optimizing resource utilization across projects.
 
 ### _License_
-This project is licensed under the MIT License - see the LICENSE file for details.
+All rights reserved. No part of this repository may be used, copied, or distributed without explicit permission from the author.
