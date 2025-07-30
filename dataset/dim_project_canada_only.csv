@@ -1,0 +1,51 @@
+ProjectID,ProjectName,ClientName,ProjectManager,StartDate,EndDate,Territory,Country,ProvinceOrTerritory,Phase
+PJT001,Client 2 Expansion,Client 2,Manager 25,2022-01-01,2025-06-30,West,Canada,Manitoba,Execution
+PJT002,Client 4 Expansion,Client 4,Manager 48,2022-01-01,2025-06-30,East,Canada,Ontario,Closeout
+PJT003,Client 4 Expansion,Client 4,Manager 39,2022-01-01,2025-06-30,South,Canada,Nunavut,Initiation
+PJT004,Client 2 Expansion,Client 2,Manager 21,2022-01-01,2025-06-30,West,Canada,Newfoundland and Labrador,Design
+PJT005,Client 1 Expansion,Client 1,Manager 18,2022-01-01,2025-06-30,South,Canada,Saskatchewan,Closeout
+PJT006,Client 1 Expansion,Client 1,Manager 45,2022-01-01,2025-06-30,West,Canada,New Brunswick,Design
+PJT007,Client 8 Expansion,Client 8,Manager 39,2022-01-01,2025-06-30,East,Canada,British Columbia,Initiation
+PJT008,Client 3 Expansion,Client 3,Manager 49,2022-01-01,2025-06-30,North,Canada,Ontario,Design
+PJT009,Client 7 Expansion,Client 7,Manager 18,2022-01-01,2025-06-30,South,Canada,New Brunswick,Closeout
+PJT010,Client 4 Expansion,Client 4,Manager 45,2022-01-01,2025-06-30,North,Canada,Yukon,Closeout
+PJT011,Client 4 Expansion,Client 4,Manager 11,2022-01-01,2025-06-30,East,Canada,Alberta,Execution
+PJT012,Client 6 Expansion,Client 6,Manager 11,2022-01-01,2025-06-30,North,Canada,Nunavut,Execution
+PJT013,Client 2 Expansion,Client 2,Manager 35,2022-01-01,2025-06-30,East,Canada,Nunavut,Closeout
+PJT014,Client 1 Expansion,Client 1,Manager 45,2022-01-01,2025-06-30,West,Canada,Nunavut,Execution
+PJT015,Client 4 Expansion,Client 4,Manager 22,2022-01-01,2025-06-30,East,Canada,British Columbia,Execution
+PJT016,Client 3 Expansion,Client 3,Manager 39,2022-01-01,2025-06-30,West,Canada,New Brunswick,Closeout
+PJT017,Client 8 Expansion,Client 8,Manager 33,2022-01-01,2025-06-30,West,Canada,British Columbia,Design
+PJT018,Client 8 Expansion,Client 8,Manager 24,2022-01-01,2025-06-30,East,Canada,Nunavut,Design
+PJT019,Client 4 Expansion,Client 4,Manager 20,2022-01-01,2025-06-30,South,Canada,New Brunswick,Closeout
+PJT020,Client 2 Expansion,Client 2,Manager 5,2022-01-01,2025-06-30,South,Canada,Yukon,Closeout
+PJT021,Client 1 Expansion,Client 1,Manager 30,2022-01-01,2025-06-30,South,Canada,Newfoundland and Labrador,Closeout
+PJT022,Client 4 Expansion,Client 4,Manager 5,2022-01-01,2025-06-30,West,Canada,Prince Edward Island,Closeout
+PJT023,Client 3 Expansion,Client 3,Manager 41,2022-01-01,2025-06-30,North,Canada,British Columbia,Execution
+PJT024,Client 7 Expansion,Client 7,Manager 10,2022-01-01,2025-06-30,South,Canada,Ontario,Closeout
+PJT025,Client 3 Expansion,Client 3,Manager 41,2022-01-01,2025-06-30,East,Canada,Alberta,Initiation
+PJT026,Client 4 Expansion,Client 4,Manager 1,2022-01-01,2025-06-30,East,Canada,Saskatchewan,Initiation
+PJT027,Client 1 Expansion,Client 1,Manager 46,2022-01-01,2025-06-30,South,Canada,Saskatchewan,Initiation
+PJT028,Client 8 Expansion,Client 8,Manager 11,2022-01-01,2025-06-30,South,Canada,British Columbia,Design
+PJT029,Client 7 Expansion,Client 7,Manager 2,2022-01-01,2025-06-30,West,Canada,Northwest Territories,Execution
+PJT030,Client 1 Expansion,Client 1,Manager 33,2022-01-01,2025-06-30,North,Canada,Northwest Territories,Design
+PJT031,Client 2 Expansion,Client 2,Manager 7,2022-01-01,2025-06-30,South,Canada,Northwest Territories,Initiation
+PJT032,Client 3 Expansion,Client 3,Manager 6,2022-01-01,2025-06-30,East,Canada,Manitoba,Execution
+PJT033,Client 8 Expansion,Client 8,Manager 42,2022-01-01,2025-06-30,South,Canada,Manitoba,Design
+PJT034,Client 1 Expansion,Client 1,Manager 45,2022-01-01,2025-06-30,South,Canada,Saskatchewan,Closeout
+PJT035,Client 3 Expansion,Client 3,Manager 45,2022-01-01,2025-06-30,East,Canada,New Brunswick,Initiation
+PJT036,Client 3 Expansion,Client 3,Manager 35,2022-01-01,2025-06-30,South,Canada,New Brunswick,Closeout
+PJT037,Client 2 Expansion,Client 2,Manager 26,2022-01-01,2025-06-30,West,Canada,Yukon,Design
+PJT038,Client 5 Expansion,Client 5,Manager 32,2022-01-01,2025-06-30,North,Canada,Nunavut,Initiation
+PJT039,Client 5 Expansion,Client 5,Manager 35,2022-01-01,2025-06-30,North,Canada,Alberta,Initiation
+PJT040,Client 4 Expansion,Client 4,Manager 42,2022-01-01,2025-06-30,East,Canada,Northwest Territories,Execution
+PJT041,Client 5 Expansion,Client 5,Manager 1,2022-01-01,2025-06-30,West,Canada,Alberta,Execution
+PJT042,Client 5 Expansion,Client 5,Manager 26,2022-01-01,2025-06-30,North,Canada,Yukon,Initiation
+PJT043,Client 1 Expansion,Client 1,Manager 15,2022-01-01,2025-06-30,South,Canada,Yukon,Design
+PJT044,Client 3 Expansion,Client 3,Manager 26,2022-01-01,2025-06-30,South,Canada,Newfoundland and Labrador,Initiation
+PJT045,Client 2 Expansion,Client 2,Manager 45,2022-01-01,2025-06-30,South,Canada,Newfoundland and Labrador,Execution
+PJT046,Client 3 Expansion,Client 3,Manager 19,2022-01-01,2025-06-30,West,Canada,Prince Edward Island,Design
+PJT047,Client 5 Expansion,Client 5,Manager 27,2022-01-01,2025-06-30,East,Canada,Northwest Territories,Design
+PJT048,Client 4 Expansion,Client 4,Manager 20,2022-01-01,2025-06-30,East,Canada,Northwest Territories,Closeout
+PJT049,Client 5 Expansion,Client 5,Manager 6,2022-01-01,2025-06-30,East,Canada,Newfoundland and Labrador,Initiation
+PJT050,Client 3 Expansion,Client 3,Manager 20,2022-01-01,2025-06-30,South,Canada,Nunavut,Closeout

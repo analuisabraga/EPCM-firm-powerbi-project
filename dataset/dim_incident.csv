@@ -1,0 +1,5 @@
+IncidentType,Description,SeverityLevel
+Near Miss,Near Miss incident description,Medium
+First Aid,First Aid incident description,Medium
+Lost Time,Lost Time incident description,High
+Environmental,Environmental incident description,Low

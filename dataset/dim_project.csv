@@ -1,0 +1,51 @@
+ProjectID,ProjectName,ClientName,ProjectManager,StartDate,EndDate,Territory,Country,Phase,ProvinceOrState
+PJT001,Humphrey-Gonzalez Expansion,"Fox, Moran and Miller",Alec Moore Jr.,2023-07-01,2023-06-05,North,Canada,Design,Manitoba
+PJT002,"Stephens, Expansion",Humphrey-Gonzalez,John Morse,2022-07-01,2023-05-28,East,Canada,Closeout,Alberta
+PJT003,"Fox, Expansion","Fox, Moran and Miller",Alice Decker,2024-11-03,2023-07-19,East,Canada,Design,Ontario
+PJT004,"Fox, Expansion","Mckenzie, Benjamin and Schneider",Pamela Cook,2024-08-27,2025-02-21,South,Canada,Closeout,Quebec
+PJT005,"Nelson, Expansion","Fox, Moran and Miller",Megan Mckenzie,2022-09-25,2024-10-04,West,Canada,Closeout,Quebec
+PJT006,Gutierrez-Strickland Expansion,"Nelson, Lynch and Wood",Bonnie Francis,2024-01-15,2022-10-01,West,Canada,Execution,Ontario
+PJT007,Humphrey-Gonzalez Expansion,Humphrey-Gonzalez,Nicole White,2022-01-17,2024-05-02,South,Canada,Execution,British Columbia
+PJT008,Gutierrez-Strickland Expansion,"Nelson, Lynch and Wood",James Dunlap,2023-03-21,2024-10-07,East,USA,Closeout,Texas
+PJT009,Humphrey-Gonzalez Expansion,Morris-Bates,Jennifer Thomas,2023-02-07,2023-01-01,East,USA,Execution,Florida
+PJT010,Gutierrez-Strickland Expansion,"Mckenzie, Benjamin and Schneider",Angela Washington,2024-10-11,2025-01-11,East,Canada,Design,Manitoba
+PJT011,"Nelson, Expansion",Humphrey-Gonzalez,Jennifer Bishop,2022-05-13,2023-12-23,West,Canada,Closeout,Quebec
+PJT012,"Nelson, Expansion","Garcia, Clark and Allen",Aaron Rubio,2023-06-15,2024-12-28,North,Canada,Execution,Manitoba
+PJT013,Gutierrez-Strickland Expansion,"Mckenzie, Benjamin and Schneider",Angelica King,2024-08-14,2023-07-20,North,USA,Initiation,California
+PJT014,"Stephens, Expansion","Mckenzie, Benjamin and Schneider",Ronald Williams,2022-02-21,2023-07-20,West,USA,Closeout,Texas
+PJT015,"Nelson, Expansion","Mckenzie, Benjamin and Schneider",Benjamin Moore,2023-09-06,2024-03-01,North,Canada,Design,Ontario
+PJT016,"Fox, Expansion",Gutierrez-Strickland,Brian Nunez,2022-05-28,2024-06-26,South,Canada,Initiation,Saskatchewan
+PJT017,"Mckenzie, Expansion",Gutierrez-Strickland,Heather Perry,2023-11-20,2025-05-03,West,Canada,Closeout,Saskatchewan
+PJT018,Morris-Bates Expansion,"Garcia, Clark and Allen",Darlene Baxter,2024-03-12,2023-01-31,West,Canada,Design,Ontario
+PJT019,"Mckenzie, Expansion","Nelson, Lynch and Wood",Matthew Jones,2022-06-17,2025-02-28,South,USA,Closeout,California
+PJT020,Gutierrez-Strickland Expansion,"Mckenzie, Benjamin and Schneider",Jenna Reilly,2024-05-03,2025-02-25,West,Canada,Closeout,Ontario
+PJT021,Humphrey-Gonzalez Expansion,"Fox, Moran and Miller",Todd Wheeler,2022-02-24,2023-12-26,East,USA,Design,Texas
+PJT022,Morris-Bates Expansion,Humphrey-Gonzalez,Ricky Mitchell,2023-11-28,2024-06-09,South,Canada,Closeout,British Columbia
+PJT023,"Nelson, Expansion","Fox, Moran and Miller",Jared Cunningham,2022-11-03,2023-08-27,East,Canada,Execution,Ontario
+PJT024,Gutierrez-Strickland Expansion,Humphrey-Gonzalez,Ian Taylor,2022-02-04,2025-03-14,North,Canada,Design,Manitoba
+PJT025,"Garcia, Expansion","Fox, Moran and Miller",William Garrett,2024-08-08,2023-01-16,North,Canada,Design,Quebec
+PJT026,Humphrey-Gonzalez Expansion,"Nelson, Lynch and Wood",Joshua Vargas,2023-01-13,2023-07-09,West,USA,Execution,New York
+PJT027,"Stephens, Expansion","Fox, Moran and Miller",Kelly Strong,2024-11-24,2024-08-29,North,USA,Initiation,Pennsylvania
+PJT028,Humphrey-Gonzalez Expansion,Gutierrez-Strickland,Gabriel Patton,2022-02-09,2024-01-24,North,USA,Initiation,Illinois
+PJT029,"Mckenzie, Expansion",Humphrey-Gonzalez,Brittney Walker,2023-07-25,2024-11-13,East,Canada,Closeout,Quebec
+PJT030,Humphrey-Gonzalez Expansion,"Stephens, Shannon and Perry",Tonya Walker,2023-10-26,2022-11-16,West,Canada,Closeout,Manitoba
+PJT031,"Stephens, Expansion","Nelson, Lynch and Wood",Glenn Buchanan,2022-11-22,2022-11-11,South,USA,Design,California
+PJT032,"Nelson, Expansion",Morris-Bates,Christian Martinez,2022-02-06,2025-03-31,North,USA,Closeout,Pennsylvania
+PJT033,Humphrey-Gonzalez Expansion,"Mckenzie, Benjamin and Schneider",Ronald Short MD,2023-06-22,2024-04-25,West,Canada,Execution,Manitoba
+PJT034,"Fox, Expansion","Mckenzie, Benjamin and Schneider",Julie Hill,2022-05-14,2024-07-14,West,Canada,Initiation,Manitoba
+PJT035,"Fox, Expansion","Mckenzie, Benjamin and Schneider",Andrea Nguyen,2024-09-19,2023-08-25,East,Canada,Execution,Alberta
+PJT036,Humphrey-Gonzalez Expansion,"Mckenzie, Benjamin and Schneider",Sarah Moon,2023-07-06,2023-06-08,North,USA,Closeout,California
+PJT037,"Mckenzie, Expansion","Stephens, Shannon and Perry",Rachel Morales,2022-09-13,2022-06-17,South,USA,Closeout,Illinois
+PJT038,Morris-Bates Expansion,"Mckenzie, Benjamin and Schneider",Ryan Martinez,2024-08-25,2024-09-22,East,Canada,Closeout,Alberta
+PJT039,Gutierrez-Strickland Expansion,Morris-Bates,Christina Bender,2024-12-26,2023-04-20,South,Canada,Initiation,Quebec
+PJT040,Humphrey-Gonzalez Expansion,"Fox, Moran and Miller",Joseph Edwards,2024-09-29,2025-01-16,South,Canada,Execution,Ontario
+PJT041,Humphrey-Gonzalez Expansion,"Mckenzie, Benjamin and Schneider",Jacob Smith,2024-04-03,2023-07-31,West,Canada,Closeout,Ontario
+PJT042,"Stephens, Expansion",Morris-Bates,Carl Massey,2023-02-11,2023-06-24,West,USA,Closeout,Pennsylvania
+PJT043,"Mckenzie, Expansion",Humphrey-Gonzalez,Jacqueline Chavez,2024-01-20,2024-07-26,South,Canada,Initiation,Alberta
+PJT044,"Fox, Expansion","Fox, Moran and Miller",Gary Peters,2023-08-28,2025-05-04,East,Canada,Design,British Columbia
+PJT045,Morris-Bates Expansion,"Garcia, Clark and Allen",Aaron Potter,2024-08-09,2023-02-24,South,Canada,Closeout,Alberta
+PJT046,"Fox, Expansion","Stephens, Shannon and Perry",Kim Hicks,2023-07-12,2022-06-07,South,Canada,Closeout,Alberta
+PJT047,"Nelson, Expansion","Garcia, Clark and Allen",Sandra Pace,2023-03-27,2024-05-03,North,Canada,Closeout,Alberta
+PJT048,"Stephens, Expansion","Mckenzie, Benjamin and Schneider",Adam Brown,2024-03-16,2024-11-16,North,Canada,Initiation,Saskatchewan
+PJT049,"Fox, Expansion",Gutierrez-Strickland,Thomas Anderson,2022-02-14,2023-10-17,East,USA,Closeout,Texas
+PJT050,"Stephens, Expansion","Fox, Moran and Miller",Elijah Marks,2022-08-02,2022-05-18,East,Canada,Initiation,Saskatchewan
