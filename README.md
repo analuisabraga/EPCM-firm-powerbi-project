@@ -1,6 +1,6 @@
 # _EPCM Dashboard Project_
 
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl5dW9zYzB1MWZmbnY2dWp1N2drOG1uaHU5eHdkOGowNDdoYXIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w4ZerEwO1ymdJdLZ59/giphy.gif
+[](https://media0.giphy.com/media/w4ZerEwO1ymdJdLZ59/giphy.gif
 
 ### _Project Overview_
 This project develops a centralized EPCM Dashboard designed to track and visualize key performance metrics in the context of Engineering, Procurement, and Construction Management (EPCM). The dashboard consolidates project data to provide faster insights into project performance, resource allocation, procurement status, safety incidents, and deliverable compliance. This solution helps EPCM teams deliver projects on time, within scope, and within budget, while maintaining high safety and quality standards.
